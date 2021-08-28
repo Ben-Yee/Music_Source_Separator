@@ -13,5 +13,8 @@ How to use:
     3. python3 train.py / python3 separate.py / python3 eval.py
 
 
-
-
+References:
+    https://github.com/deezer/spleeter
+    https://github.com/tky823/DNN-based_source_separation
+    https://github.com/generalwave/spleeter.pytorch
+    
